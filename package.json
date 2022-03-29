@@ -1,0 +1,44 @@
+{
+    "name": "cypress-snippets-vscode",
+    "displayName": "Cypress Snippets For VS Code",
+    "description": "Cypress Snippets Extension For VS Code",
+    "version": "1.0.0",
+    "publisher": "caowei_15701221",
+    "icon": "/icons/logo.png",
+    "repository": "https://github.com/caowei1517/cypress-snippets-vscode",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "keywords": [
+        "cypress",
+        "e2e",
+        "end to end test",
+        "integration test",
+        "unit test",
+        "vscode",
+        "qa"
+    ],
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
