@@ -73,8 +73,8 @@
     "body": [
       "describe('$1', () => {",
       "    it('$1', () => {",
-      "   $0",
-      "});",
+      "       $0",
+      "    });",
       "});"
     ],
     "description": "Create Cypress describe Code block"
