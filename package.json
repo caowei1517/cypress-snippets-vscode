@@ -3,7 +3,7 @@
     "displayName": "Cypress Snippets for vscode",
     "description": "Cypress Snippets Extension For VS Code",
     "version": "1.0.0",
-    "publisher": "caowei_15701221",
+    "publisher": "caowei15701221",
     "icon": "icons/logo.png",
     "license": "MIT",
     "repository": "https://github.com/caowei1517/cypress-snippets-vscode",
