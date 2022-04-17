@@ -38,7 +38,7 @@ Cypress snippets extension for VS Code.Contains a general cypress code snippets.
 | `cydescr` |describe('', () => {<br/><br/>it('', () => {<br/><br/>});<br/>});                 |Cypress describe code block|
 | `cydbug` |cy.debug();            |Cypress debug Api  |
 | `cydoc` |cy.document();          |Cypress document Api |
-| `cygft` |cy.get('').first('');   |Cypress find Api     |
+| `cygft` |cy.get('').first('');   |Cypress first Api     |
 | `cygfd` |cy.get('').find('');    |Cypress find Api     |
 | `cyfix` |cy.fixture('');         |Cypress fixture Api  |
 |`cyfocusd`|cy.focused();|Cypress focused Api|
